@@ -1,0 +1,7 @@
+环境软件：
+Processing（编程软件）
+
+需要，在Processing软件里，安装PeasyCam 库，用于控制摄像机。
+
+该程序由Processing软件打开
+https://processing.org/download/
